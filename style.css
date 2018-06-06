@@ -1,7 +1,6 @@
 
 <link href="https://fonts.googleapis.com/icon?family=Material+Icons"
-      rel="stylesheet">
-
+<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.1/css/bootstrap.min.css" integrity="sha384-WskhaSGFgHYWDcbwN70/dfYBj47jz9qbsMId/iRN3ewGhXQFZCSftd1LZCfmhktB" crossorigin="anonymous">
 
 <style>
 .center {
@@ -35,6 +34,19 @@ h1.title {
 body {
 	font-family: Arial, Helvetica, sans-serif;
 	background-color: #d5d2cb; /*in flowers by kinkajou888 - colourlovers.com */
+}
+
+th {
+  font-size: 30px;
+  line-height: 40px;
+  font-family: fantasy;
+  font-weight: bold;
+}
+
+td {
+  font-size: 16px;
+  font-family: cursive;
+  font-weight: normal;
 }
 
 h1 {
@@ -168,3 +180,12 @@ p.footer {
 .formfield {
   padding-right: 10px;
 }
+<style>
+.Beverages {
+  font-family: 'fantasy';
+  font-weight: bold;
+}
+.firstitemscontents {
+  font-family: "fantasy";
+}
+</style>
